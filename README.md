@@ -5,7 +5,7 @@
 > v 0.0.1
 > https://miczys.github.io/Counter_Bar/
 > I used js, html and sass
-> just open the link and enter time in mins for counter 
+just open the link and enter time in mins for counter 
 
 ## -------------- Desktop
 
