@@ -12,4 +12,4 @@
 
 ## --------------
 
-<img alt="screen" src="./images/screen2.png" width="50%">
+<img alt="screen" src="./images/screen2.png" width="25%">
