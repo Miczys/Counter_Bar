@@ -8,8 +8,8 @@
 
 ## --------------
 
-<img alt="screen" src="./screen1.png" width="100%">
+<img alt="screen" src="./images/screen1.png" width="100%">
 
 ## --------------
 
-<img alt="screen" src="./screen2.png" width="100%">
+<img alt="screen" src="./images/screen2.png" width="100%">
